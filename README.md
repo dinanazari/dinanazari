@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm [Your Name]
 
-<!--
-**dinanazari/dinanazari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
 
-Here are some ideas to get you started:
+## About me
+- Studying: [your programme], UiTM
+- Currently learning: [topics]
+- My FYP area: [your area, or "still deciding"]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills and tools
+[List what you know. Example: Python, Git, SQL]
+
+## Projects
+- [Project name](link-to-your-repository): one sentence about it
+
+## Contact
+- LinkedIn: [your profile link]
+- Email: [a professional email address]
